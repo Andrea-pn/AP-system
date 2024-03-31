@@ -1,0 +1,19 @@
+C:\Users\12514\Desktop\Restaurant\bin\Debug\net8.0-windows\Restaurant Management System.exe
+C:\Users\12514\Desktop\Restaurant\bin\Debug\net8.0-windows\Restaurant Management System.deps.json
+C:\Users\12514\Desktop\Restaurant\bin\Debug\net8.0-windows\Restaurant Management System.runtimeconfig.json
+C:\Users\12514\Desktop\Restaurant\bin\Debug\net8.0-windows\Restaurant Management System.dll
+C:\Users\12514\Desktop\Restaurant\bin\Debug\net8.0-windows\Restaurant Management System.pdb
+C:\Users\12514\Desktop\Restaurant\obj\Debug\net8.0-windows\Restaurant_Management_System.Form1.resources
+C:\Users\12514\Desktop\Restaurant\obj\Debug\net8.0-windows\Restaurant_Management_System.Resources.resources
+C:\Users\12514\Desktop\Restaurant\obj\Debug\net8.0-windows\Restaurant Management System.vbproj.GenerateResource.cache
+C:\Users\12514\Desktop\Restaurant\obj\Debug\net8.0-windows\Restaurant Management System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\12514\Desktop\Restaurant\obj\Debug\net8.0-windows\Restaurant Management System.AssemblyInfoInputs.cache
+C:\Users\12514\Desktop\Restaurant\obj\Debug\net8.0-windows\Restaurant Management System.AssemblyInfo.vb
+C:\Users\12514\Desktop\Restaurant\obj\Debug\net8.0-windows\Restaurant Management System.vbproj.CoreCompileInputs.cache
+C:\Users\12514\Desktop\Restaurant\obj\Debug\net8.0-windows\Restaurant Management System.sourcelink.json
+C:\Users\12514\Desktop\Restaurant\obj\Debug\net8.0-windows\Restaurant Management System.dll
+C:\Users\12514\Desktop\Restaurant\obj\Debug\net8.0-windows\refint\Restaurant Management System.dll
+C:\Users\12514\Desktop\Restaurant\obj\Debug\net8.0-windows\Restaurant Management System.pdb
+C:\Users\12514\Desktop\Restaurant\obj\Debug\net8.0-windows\Restaurant Management System.genruntimeconfig.cache
+C:\Users\12514\Desktop\Restaurant\obj\Debug\net8.0-windows\ref\Restaurant Management System.dll
+C:\Users\12514\Desktop\Restaurant\obj\Debug\net8.0-windows\Restaurant_Management_System.Form2.resources
